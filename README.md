@@ -1,6 +1,4 @@
-# HW1_IOCLA
-
-Minimal Linux File System Manager written in C.
+# Minimal Linux File System Manager written in C
 
 ## Implementation
 
